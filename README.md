@@ -20,5 +20,6 @@ CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigne
 Country: Country name. Nominal, the name of the country where each customer resides.
 
 
+Conclusion
 
-In this project i used Unsupervised Machine Learning (KMeans Clustering) to get insights from the given dataset.
+Predicted this model using KMeans Clustering Algorithm and also calculated RFM(Recency, Frequency, Monetary).
